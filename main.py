@@ -4,7 +4,8 @@ from PyQt5 import QtCore, QtGui, QtWidgets, uic
 from PyQt5.QtCore import Qt
 from PyQt5.QtGui import QPainter, QPen, QMouseEvent, QPixmap
 import cv2
-from PIL import Image
+import tensorflow
+import numpy
 
 def digitRecognizer():
     pass
