@@ -194,9 +194,6 @@ def main():
     print("Main is running")
 
 if __name__ == "__main__":
-    #digitRecognizer(needTraining=True, needreset=True)
-    #digitRecognizer(needTraining=True, needreset=False)
-    #print("Complete")
     main()
     
 
