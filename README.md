@@ -43,4 +43,5 @@ The user can draw a digit in a graphical user interface (GUI) and the model pred
 ### Demo GIF
 The GIF demonstrates the CNN predicting digits in real-time as the user draws them:
 ![Digit_Recognizer_Usage_GIF](https://github.com/user-attachments/assets/69b62531-e0f4-4d55-bd87-a77d09aa1340)
+
 *Shows real-time prediction and probability output.*
