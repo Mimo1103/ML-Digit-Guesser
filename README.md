@@ -24,7 +24,7 @@ The user can draw a digit in a graphical user interface and the model predicts t
 - Imptoved recognition of different writing styles (eg. variations of 4)
 
 ## My contribution
-- Trained thr CNN using TensorFlow
+- Trained the CNN using TensorFlow based on documentation
 - Implemented preprocessing for user input
 - Created a custom fine-tuning dataset
 - Built the GUI and connected it to the model
