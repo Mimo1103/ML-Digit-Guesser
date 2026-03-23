@@ -21,7 +21,7 @@ The user can draw a digit in a graphical user interface and the model predicts t
 - CNN is trained on the MNIST dataset
 - Further improved using a custom built fine-tuning dataset
 - Fine-tuning helped better distinction between similar digits (eg. 1 and 7)
-- Imptoved recognition of different writing styles (eg. variations of 4)
+- Improved recognition of different writing styles (eg. variations of 4)
 
 ## My contribution
 - Trained the CNN using TensorFlow based on documentation
@@ -34,3 +34,9 @@ The user can draw a digit in a graphical user interface and the model predicts t
 - TensorFlow
 - NumPy
 - PyQt5
+- OpenCV
+
+## Example
+Here is the GUI of the Handwritten Digit Recognizer, where the user draws a number and sees the predicted probabilities:
+![ML_Digit_Recognizer_GUI](https://github.com/user-attachments/assets/bc5eff98-4b58-4ac4-a212-1e48da2dce70)
+
