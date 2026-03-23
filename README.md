@@ -37,6 +37,6 @@ The user can draw a digit in a graphical user interface and the model predicts t
 - OpenCV
 
 ## Example
-Here is the GUI of the Handwritten Digit Recognizer, where the user draws a number and sees the predicted probabilities:
-![ML_Digit_Recognizer_GUI](https://github.com/user-attachments/assets/bc5eff98-4b58-4ac4-a212-1e48da2dce70)
+Here is the GUI of the Handwritten Digit Recognizer. The the user draws a digit on the canvas and the CNN predicts the number with corresponding probability scores:
+![Digit_Recognizer_Usage_GIF](https://github.com/user-attachments/assets/69b62531-e0f4-4d55-bd87-a77d09aa1340)
 
