@@ -1,4 +1,4 @@
-# Handwritten Digit Rexognizer (CNN)
+# Handwritten Digit Recognizer (CNN)
 ## Overview
 A machine learning application that recognizes handwritten digits (0-9) using a Convolutional Neural Network (CNN).
 
